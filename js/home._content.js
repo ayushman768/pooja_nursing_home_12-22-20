@@ -3,7 +3,7 @@ function MyAbout() {
     let home_about = [{
         My_About_class: "my_about",
         heading01: "Welcome To Pooja Nursing</span><span class='light_green'> Home & Hospital</span>",
-        about_content: "Welcome to <b>Pooja Nursing Home & Hospital</b>. we are from <b>Bilaspur Chhattisgarh</b> .<b>Dr. Pooja singh has done  M.B.B.S. , D.G.O., F.C.G.P</b>,she is also expert for <b>Obstetrics, Gynecology, infertility,</b><b>Dr Prasanna Singh MBBS DMRD 15 yr experience in obstetric and abdominal sonography colour doppler. X-ray and ct scan reporting. Our hospital <b>facilities - X -ray facility,Sonography facility,E.C.G facility,Echocardiogarhy facility,Blood & Urine test</b> facilty,Clean hospital,Helpfull hospital staff.Our provided <b>services are IUI facility, Painless delivery, Uters operation, kidney treatment, High risk pragnancy management, Embryo Donattion</b> & <a href='service.html'><u><i>more</i></u></a>.",
+         about_content: "Welcome to <b>Pooja Nursing Home & Hospital</b>. we are from <b>Bilaspur Chhattisgarh</b> .<b>Dr. Pooja singh has done  M.B.B.S. , D.G.O., F.C.G.P</b>,she is also expert for <b>Obstetrics, Gynecology, infertility,</b><b>Dr Prasanna Singh MBBS DMRD 15 yr experience in obstetric and abdominal sonography colour doppler. X-ray and ct scan reporting. Our hospital </b>facilities -<b> X -ray facility,Sonography facility,E.C.G facility,Echocardiogarhy facility,Blood & Urine test facilty,Clean hospital,Helpfull hospital staff</b>.<b>Our provided services are IUI facility, Painless delivery, Uters operation, kidney treatment, High risk pragnancy management, Embryo Donattion</b> & <a href='service.html'><u><i>more</i></u></a>",
         about_image: "images/about_image1.png",
 
     }, {
